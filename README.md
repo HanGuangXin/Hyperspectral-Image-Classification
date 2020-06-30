@@ -12,15 +12,15 @@ This project is based on  **[Hyperspectral-Classification](https://github.com/ee
 
 - **M3D-RES-DCNN** version 1
 
-  ![M3D-RES-DCNN version 1](README.assets/M3D-RES-DCNN version 1.png)
+  ![M3D-RES-DCNN version 1](README.assets/M3D-RES-DCNN_v1.png)
 
 - **M3D-RES-DCNN** version 2
 
-  ![M3D-RES-DCNN version 2](README.assets/M3D-RES-DCNN version 2.png)
+  ![M3D-RES-DCNN version 2](README.assets/M3D-RES-DCNN_v2.png)
 
 - **M3D-RES-DCNN** version 3
 
-  ![M3D-RES-DCNN version 3](README.assets/M3D-RES-DCNN version 3.png)
+  ![M3D-RES-DCNN version 3](README.assets/M3D-RES-DCNN_v3.png)
 
 ## Note and Permission 
 
