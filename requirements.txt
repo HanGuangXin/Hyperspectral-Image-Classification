@@ -1,0 +1,12 @@
+tqdm==4.28.1
+scipy==1.3.0
+TorchSnooper==0.7.1
+torch==1.2.0
+spectral==0.19
+numpy==1.17.2
+visdom==0.1.8.8
+torchsummary==1.5.1
+matplotlib==3.2.1
+scikit_learn==0.22.2.post1
+seaborn==0.10.0
+skimage==0.0

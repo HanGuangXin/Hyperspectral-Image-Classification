@@ -1,0 +1,26 @@
+Confusion matrix :
+[[    0     0     0     0     0     0     0     0     0     0]
+ [  517  6037     0    23     0     0     0    32    22     0]
+ [ 3139     0 15478     0     4     0    25     0     3     0]
+ [  251     6     0  1809     0     0     0     8    25     0]
+ [  160     6    11     1  2859     0     6     0    21     0]
+ [    0     3     0     0     0  1339     0     0     0     3]
+ [    0     0    22     2     0     0  5005     0     0     0]
+ [    0    10     0     0     0     0     0  1320     0     0]
+ [    0    36     0     0     1     0     0     0  3645     0]
+ [    0     6     0     0     0     0     0     0     0   941]]---
+Accuracy : 89.847%
+---
+F1 scores :
+        Undefined: 0.000
+        Asphalt: 0.948
+        Meadows: 0.906
+        Gravel: 0.920
+        Trees: 0.965
+        Painted metal sheets: 0.998
+        Bare Soil: 0.995
+        Bitumen: 0.981
+        Self-Blocking Bricks: 0.985
+        Shadows: 0.995
+---
+Kappa: 0.871

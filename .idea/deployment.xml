@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="MistGPU">
+    <serverData>
+      <paths name="MistGPU">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/HSIproject" local="$PROJECT_DIR$" web="/HSIproject" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

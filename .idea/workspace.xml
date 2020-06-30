@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07e69166-0a08-4c40-945a-c492c3776352" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HSIproject$test.coverage" NAME="test Coverage Results" MODIFIED="1587539333945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HSIproject$.coverage" NAME="光的等厚干涉 Coverage Results" MODIFIED="1564558810879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/HSIproject$pytest_in_test_torchsnooper_py.coverage" NAME="pytest in test_torchsnooper.py Coverage Results" MODIFIED="1568899705226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5339">
+              <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
+              <folding>
+                <element signature="e#457#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1083" column="13" selection-start-line="1083" selection-start-column="13" selection-end-line="1083" selection-end-column="13" />
+              <folding>
+                <element signature="e#32#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model net_v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20805">
+              <caret line="1108" column="13" selection-start-line="1108" selection-start-column="13" selection-end-line="1108" selection-end-column="13" />
+              <folding>
+                <element signature="e#45011#46742#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model net_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4351">
+              <caret line="1188" column="34" selection-start-line="1188" selection-start-column="34" selection-end-line="1188" selection-end-column="34" />
+              <folding>
+                <element signature="e#442#10510#0" />
+                <element signature="e#10544#11541#0" />
+                <element signature="e#11573#13980#0" />
+                <element signature="e#14016#17421#0" />
+                <element signature="e#17454#20152#0" />
+                <element signature="e#20186#22199#0" />
+                <element signature="e#22231#24366#0" />
+                <element signature="e#24398#27318#0" />
+                <element signature="e#27351#29835#0" />
+                <element signature="e#29871#32787#0" />
+                <element signature="e#32820#35579#0" />
+                <element signature="e#35615#38014#0" />
+                <element signature="e#38047#39624#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="57" selection-start-line="57" selection-end-line="177" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#333#400#0" />
+                <element signature="e#1969#6632#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3458">
+              <caret line="195" column="63" selection-start-line="195" selection-start-column="63" selection-end-line="195" selection-end-column="63" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5358">
+              <caret line="288" column="32" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>env</find>
+      <find>he</find>
+      <find>leee</find>
+      <find>lee</find>
+      <find>linear</find>
+      <find>dropout</find>
+      <find>residual</find>
+      <find>lrn2</find>
+      <find>test</find>
+      <find>summa</find>
+      <find>restore</find>
+      <find>CHECKPOINT</find>
+      <find>hamida</find>
+      <find>line</find>
+      <find>plane</find>
+      <find>32*2</find>
+      <find>hee</find>
+      <find>Adam</find>
+      <find>class_balancing</find>
+      <find>flip_augmentation</find>
+      <find>FLIP_AUGMENTATION</find>
+      <find>RADIATION_AUGMENTATION</find>
+      <find>radiation_augmentation</find>
+      <find>Ownnet</find>
+      <find>labels</find>
+      <find>label</find>
+      <find>samples_per_class</find>
+      <find>train_gt</find>
+      <find>Own</find>
+      <find>aug</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\73416\PycharmProjects\HSIproject</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+        <option value="$PROJECT_DIR$/custom_datasets.py" />
+        <option value="$PROJECT_DIR$/../untitled4/cifar-10.py" />
+        <option value="$PROJECT_DIR$/test_torchsnooper.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/datasets.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/file_for_debug.py" />
+        <option value="$PROJECT_DIR$/backup.py" />
+        <option value="$PROJECT_DIR$/backup2.py" />
+        <option value="$PROJECT_DIR$/model-multi_scale+residual+2linear.py" />
+        <option value="$PROJECT_DIR$/model_OwnNetTest2_backup.py" />
+        <option value="$PROJECT_DIR$/model net_v3.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="948" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model net_v1.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="HSIproject" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="HSIproject" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="HSIproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cifar-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSIproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../untitled4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled4/cifar-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSIproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSIproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSIproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_torchsnooper.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HSIproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_torchsnooper.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python tests.pytest in test_torchsnooper.py" />
+        <item itemvalue="Python.cifar-10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07e69166-0a08-4c40-945a-c492c3776352" name="Default Changelist" comment="" />
+      <created>1564558514520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564558514520</updated>
+      <workItem from="1564558570550" duration="352000" />
+      <workItem from="1564558924819" duration="5671000" />
+      <workItem from="1564625248460" duration="7449000" />
+      <workItem from="1564711136140" duration="4203000" />
+      <workItem from="1564729916261" duration="5647000" />
+      <workItem from="1564742502915" duration="6050000" />
+      <workItem from="1564800041271" duration="178000" />
+      <workItem from="1564822927664" duration="756000" />
+      <workItem from="1564844233221" duration="3743000" />
+      <workItem from="1564887495650" duration="14547000" />
+      <workItem from="1564930704884" duration="1419000" />
+      <workItem from="1564932205160" duration="1001000" />
+      <workItem from="1564971009144" duration="3938000" />
+      <workItem from="1565066179481" duration="21019000" />
+      <workItem from="1565161467533" duration="11411000" />
+      <workItem from="1565316626736" duration="9610000" />
+      <workItem from="1565338432422" duration="5793000" />
+      <workItem from="1565353470302" duration="7649000" />
+      <workItem from="1565409625037" duration="859000" />
+      <workItem from="1565422060642" duration="13693000" />
+      <workItem from="1565504005802" duration="1060000" />
+      <workItem from="1565601669236" duration="1151000" />
+      <workItem from="1565662512346" duration="3010000" />
+      <workItem from="1565681250374" duration="5044000" />
+      <workItem from="1565749694110" duration="1503000" />
+      <workItem from="1565849667261" duration="15640000" />
+      <workItem from="1565921346491" duration="8612000" />
+      <workItem from="1565949606210" duration="3385000" />
+      <workItem from="1566007518103" duration="4129000" />
+      <workItem from="1566019179862" duration="690000" />
+      <workItem from="1566019898881" duration="3423000" />
+      <workItem from="1566024903710" duration="4277000" />
+      <workItem from="1566030895393" duration="2897000" />
+      <workItem from="1566055620575" duration="2174000" />
+      <workItem from="1566057838414" duration="1603000" />
+      <workItem from="1566059495408" duration="424000" />
+      <workItem from="1566060108737" duration="195000" />
+      <workItem from="1566090901427" duration="1230000" />
+      <workItem from="1566121517040" duration="8467000" />
+      <workItem from="1566222411559" duration="2874000" />
+      <workItem from="1566269072331" duration="3071000" />
+      <workItem from="1566311442978" duration="2189000" />
+      <workItem from="1566361765080" duration="14785000" />
+      <workItem from="1566438144657" duration="14210000" />
+      <workItem from="1567135304994" duration="3224000" />
+      <workItem from="1567147999270" duration="3981000" />
+      <workItem from="1567153147598" duration="3988000" />
+      <workItem from="1567171609014" duration="1128000" />
+      <workItem from="1567216667114" duration="11225000" />
+      <workItem from="1567241312111" duration="7237000" />
+      <workItem from="1567303545565" duration="8315000" />
+      <workItem from="1567318292997" duration="18905000" />
+      <workItem from="1567382300516" duration="2503000" />
+      <workItem from="1567416958983" duration="1553000" />
+      <workItem from="1567423300011" duration="8729000" />
+      <workItem from="1567476597217" duration="3853000" />
+      <workItem from="1567484130443" duration="2836000" />
+      <workItem from="1567502436072" duration="12645000" />
+      <workItem from="1567560954969" duration="16310000" />
+      <workItem from="1567587686278" duration="6666000" />
+      <workItem from="1567603530299" duration="11819000" />
+      <workItem from="1567679741964" duration="1508000" />
+      <workItem from="1567681308256" duration="6366000" />
+      <workItem from="1567924760906" duration="1467000" />
+      <workItem from="1568202249846" duration="1487000" />
+      <workItem from="1568207556897" duration="5846000" />
+      <workItem from="1568270588344" duration="1723000" />
+      <workItem from="1568294208413" duration="2855000" />
+      <workItem from="1568341147471" duration="12219000" />
+      <workItem from="1568390261430" duration="669000" />
+      <workItem from="1568391733296" duration="866000" />
+      <workItem from="1568430195250" duration="2159000" />
+      <workItem from="1568555926826" duration="2578000" />
+      <workItem from="1568627777642" duration="824000" />
+      <workItem from="1568813660605" duration="1222000" />
+      <workItem from="1568850146715" duration="354000" />
+      <workItem from="1568858150095" duration="7302000" />
+      <workItem from="1568889411679" duration="15767000" />
+      <workItem from="1568959289295" duration="16651000" />
+      <workItem from="1569055539401" duration="446000" />
+      <workItem from="1569140752745" duration="4068000" />
+      <workItem from="1569158357806" duration="366000" />
+      <workItem from="1569229947385" duration="1835000" />
+      <workItem from="1569237844593" duration="5092000" />
+      <workItem from="1569288208844" duration="4975000" />
+      <workItem from="1569426341386" duration="135000" />
+      <workItem from="1569569146415" duration="10986000" />
+      <workItem from="1571057810434" duration="69000" />
+      <workItem from="1571282334672" duration="562000" />
+      <workItem from="1571325191878" duration="833000" />
+      <workItem from="1571388479269" duration="27000" />
+      <workItem from="1571842738086" duration="346000" />
+      <workItem from="1571844607283" duration="39000" />
+      <workItem from="1583206643038" duration="80000" />
+      <workItem from="1585013104268" duration="399000" />
+      <workItem from="1586745949584" duration="3714000" />
+      <workItem from="1586829618215" duration="14347000" />
+      <workItem from="1586891121715" duration="7460000" />
+      <workItem from="1587001935528" duration="2683000" />
+      <workItem from="1587019761320" duration="3827000" />
+      <workItem from="1587027847005" duration="16000" />
+      <workItem from="1587041951701" duration="338000" />
+      <workItem from="1587135513066" duration="2337000" />
+      <workItem from="1587263790631" duration="6831000" />
+      <workItem from="1587357429609" duration="24189000" />
+      <workItem from="1587431208067" duration="583000" />
+      <workItem from="1587432876904" duration="13000" />
+      <workItem from="1587433001204" duration="82000" />
+      <workItem from="1587461262911" duration="321000" />
+      <workItem from="1587486755061" duration="2741000" />
+      <workItem from="1587521979597" duration="5926000" />
+      <workItem from="1587604831165" duration="2433000" />
+      <workItem from="1587648275525" duration="597000" />
+      <workItem from="1587743951293" duration="1822000" />
+      <workItem from="1587796564605" duration="1365000" />
+      <workItem from="1587798002786" duration="2300000" />
+      <workItem from="1587820443746" duration="3892000" />
+      <workItem from="1587829540262" duration="2762000" />
+      <workItem from="1588649617196" duration="104000" />
+      <workItem from="1588952887377" duration="1604000" />
+      <workItem from="1590578924685" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_torchsnooper_py - 2019.09.19 at 21h 27m 21s.xml">
+      <configuration name="pytest in test_torchsnooper.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_torchsnooper_py - 2019.09.19 at 21h 27m 42s.xml">
+      <configuration name="pytest in test_torchsnooper.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_torchsnooper_py - 2019.09.19 at 21h 28m 29s.xml">
+      <configuration name="pytest in test_torchsnooper.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="560785000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17219079" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40425533" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6258865" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.34574467" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32983023" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32983023" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" side_tool="true" visible="true" weight="0.024252223" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17865804" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31382978" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32624114" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" side_tool="true" weight="0.24494745" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/光的等厚干涉.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hyperspectral-Classification-master/main.py" />
+    <entry file="file://E:/Anaconda/Lib/site-packages/scipy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/spectral/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/seaborn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/torch/optim/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-601">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/tqdm/_tqdm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="518" column="8" selection-start-line="518" selection-start-column="8" selection-end-line="518" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="984" column="24" selection-start-line="984" selection-start-column="24" selection-end-line="984" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Hyperspectral-Classification-master/main.py" />
+    <entry file="file://$PROJECT_DIR$/test_torchsnooper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled4/cifar-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/torchsummary/torchsummary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="1997" column="4" selection-start-line="1997" selection-start-column="4" selection-end-line="1997" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="767" column="8" selection-start-line="767" selection-start-column="8" selection-end-line="767" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/torch/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/visdom/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/torch/nn/modules/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_for_debug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#32#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#1353#1787#0" />
+            <element signature="e#1823#2211#0" />
+            <element signature="e#2244#2583#0" />
+            <element signature="e#2617#3024#0" />
+            <element signature="e#3056#3765#0" />
+            <element signature="e#3797#4265#0" />
+            <element signature="e#5104#5629#0" />
+            <element signature="e#5665#6769#0" />
+            <element signature="e#6802#7437#0" />
+            <element signature="e#7473#7881#0" />
+            <element signature="e#7914#8567#0" />
+            <element signature="e#8666#9247#0" />
+            <element signature="e#10423#11430#0" />
+            <element signature="e#11461#13881#0" />
+            <element signature="e#13916#17319#0" />
+            <element signature="e#17351#20048#0" />
+            <element signature="e#20081#22093#0" />
+            <element signature="e#22124#24256#0" />
+            <element signature="e#24287#27203#0" />
+            <element signature="e#27235#29719#0" />
+            <element signature="e#29754#32660#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#457#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model-multi_scale+residual+2linear.py" />
+    <entry file="file://$PROJECT_DIR$/model_OwnNetTest2_backup.py" />
+    <entry file="file://$PROJECT_DIR$/model net_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343">
+          <caret line="1074" column="8" selection-start-line="1074" selection-start-column="8" selection-end-line="1074" selection-end-column="8" />
+          <folding>
+            <element signature="e#32#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5339">
+          <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
+          <folding>
+            <element signature="e#457#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model net_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20805">
+          <caret line="1108" column="13" selection-start-line="1108" selection-start-column="13" selection-end-line="1108" selection-end-column="13" />
+          <folding>
+            <element signature="e#45011#46742#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model net_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4351">
+          <caret line="1188" column="34" selection-start-line="1188" selection-start-column="34" selection-end-line="1188" selection-end-column="34" />
+          <folding>
+            <element signature="e#442#10510#0" />
+            <element signature="e#10544#11541#0" />
+            <element signature="e#11573#13980#0" />
+            <element signature="e#14016#17421#0" />
+            <element signature="e#17454#20152#0" />
+            <element signature="e#20186#22199#0" />
+            <element signature="e#22231#24366#0" />
+            <element signature="e#24398#27318#0" />
+            <element signature="e#27351#29835#0" />
+            <element signature="e#29871#32787#0" />
+            <element signature="e#32820#35579#0" />
+            <element signature="e#35615#38014#0" />
+            <element signature="e#38047#39624#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="57" selection-start-line="57" selection-end-line="177" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#333#400#0" />
+            <element signature="e#1969#6632#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3458">
+          <caret line="195" column="63" selection-start-line="195" selection-start-column="63" selection-end-line="195" selection-end-column="63" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5358">
+          <caret line="288" column="32" selection-start-line="288" selection-start-column="26" selection-end-line="288" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1083" column="13" selection-start-line="1083" selection-start-column="13" selection-end-line="1083" selection-end-column="13" />
+          <folding>
+            <element signature="e#32#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

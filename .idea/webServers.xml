@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c29b2a29-bbdc-4baa-b09e-8b1165a99f62" name="MistGPU" url="http://119.188.240.25">
+        <fileTransfer host="119.188.240.25" port="50994" rootFolder="/home/mist/HanGuangXin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="50994" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
